@@ -42,3 +42,6 @@ Nykaa-Analytics-Dashboard/
 ├── charts/                ← Python visualizations
 ├── Nykaa_EDA.ipynb        ← Google Colab notebook
 └── Nykaa_Dashboard.pbix   ← Power BI dashboard
+
+## Connect
+[LinkedIn](www.linkedin.com/in/poojitha-thenebandla-1799b5342) | [GitHub](https://github.com/poojitha2706)
