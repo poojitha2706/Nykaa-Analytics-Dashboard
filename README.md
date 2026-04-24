@@ -22,6 +22,16 @@ Python | Pandas | Seaborn | SQLite | Power BI
 1. Executive Overview — KPIs, revenue trend, category breakdown
 2. Product Intelligence — brand ranking, price vs rating, segment analysis
 3. Discounts & Insights — discount impact, monthly orders, AOV
+## Dashboard Preview
+
+### Page 1 — Executive Overview
+![Executive Overview](charts/page1_executive.png)
+
+### Page 2 — Product Intelligence  
+![Product Intelligence](charts/page2_products.png)
+
+### Page 3 — Discounts & Insights
+![Discounts](charts/page3_discounts.png)
 
 ## Project Structure
 Nykaa-Analytics-Dashboard/
