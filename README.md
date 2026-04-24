@@ -25,13 +25,16 @@ Python | Pandas | Seaborn | SQLite | Power BI
 ## Dashboard Preview
 
 ### Page 1 — Executive Overview
-![Executive Overview](charts/page1_executive.png)
+<img width="1149" height="642" alt="Screenshot 2026-04-23 150503" src="https://github.com/user-attachments/assets/258db95b-d5b4-40c3-bed7-2ee2faae44a0" />
+
 
 ### Page 2 — Product Intelligence  
-![Product Intelligence](charts/page2_products.png)
+<img width="1329" height="709" alt="Screenshot 2026-04-24 104158" src="https://github.com/user-attachments/assets/87195643-a7c1-46a6-9c3f-8953b24be08a" />
+
 
 ### Page 3 — Discounts & Insights
-![Discounts](charts/page3_discounts.png)
+<img width="1283" height="711" alt="Screenshot 2026-04-24 110243" src="https://github.com/user-attachments/assets/b4262594-0fb0-4e86-92c0-294c4761c845" />
+
 
 ## Project Structure
 Nykaa-Analytics-Dashboard/
